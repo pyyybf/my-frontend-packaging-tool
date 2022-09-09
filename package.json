@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "pack": "node bin/app ./test/index.js ./dist/index.js"
+  },
+  "dependencies": {
+    "commander": "^8.1.0"
+  }
+}
